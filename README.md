@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/haniya-ali](https://github.com/haniya-ali)
 
-- 📫 How to reach me **haniyaali1999@gmail.com**
+- 📫 How to reach me **www.linkedin.com/in/haniyaali2149**
 
 - ⚡ Fun fact **I am a huge kdrama nerd.**
 
