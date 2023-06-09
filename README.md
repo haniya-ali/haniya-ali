@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)
+![MasterHead](https://cdn.dribbble.com/users/1081898/screenshots/6068596/01.gif)
 <h1 align="center">Hi 👋, I'm Haniya Ali</h1>
 <h3 align="center">A recent data science grad passionate about storytelling with data.</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/illustration-female-character-wearing-hijab-working-office_10045-686.jpg?w=2000">
