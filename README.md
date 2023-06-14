@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **R**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/haniya-ali](https://github.com/haniya-ali)](https://github.com/haniya-ali?tab=repositories)
+- 👨‍💻 All of my projects are available at (https://github.com/haniya-ali?tab=repositories)
 
 - 📫 How to reach me **www.linkedin.com/in/haniyaali2149**
 
