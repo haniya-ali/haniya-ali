@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haniya-ali&label=Profile%20views&color=00426b&style=flat" alt="haniya-ali" /> </p>
 
-- 🌱 I’m currently learning **R**
-
 - 👨‍💻 All of my projects are available at **https://github.com/haniya-ali?tab=repositories**
 
 - 📫 How to reach me **www.linkedin.com/in/haniyaali2149**
