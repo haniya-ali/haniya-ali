@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at **https://github.com/haniya-ali?tab=repositories**
 
 - 📫 How to reach me **www.linkedin.com/in/haniyaali2149**
-- 🤓 I am currently learning R
+- 🤓 I am currently learning R through udemy
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
